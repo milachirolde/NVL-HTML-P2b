@@ -1,0 +1,9 @@
+img {
+    border: 32px solid yellow;
+}
+div {
+    background-color: orange;
+    padding: 16px;
+    border: 10px solid red;
+    display: inline-block;
+}
